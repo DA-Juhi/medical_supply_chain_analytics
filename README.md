@@ -21,14 +21,14 @@ The primary goal was to provide actionable insights for a business to optimize i
 ***
 
 ###  **Key Insights & Outcomes**
-1. **Data Quality:** We identified over 1,736 missing values in the dosage data. This was not an error but a key insight: the missing values were for test kits, which are not measured in dosages.
+1. **Data Quality:** Identified over 1,736 missing values in the dosage data. This was not an error but a key insight: the missing values were for test kits, which are not measured in dosages.
 
-2. **Delivery Performance:** Our deliveries are on time 88.51% of the time. We see a clear difference in speed: trucks are the fastest at 55 days, while ocean is the slowest at 176 days.
+2. **Delivery Performance:** The deliveries are on time 88.51% of the time. We see a clear difference in speed: trucks are the fastest at 55 days, while ocean is the slowest at 176 days.
 
-3. **Cost Drivers:** We found that the value of the items in a shipment has a stronger impact on the shipping cost than the actual weight of the package.
+3. **Cost Drivers:** Analysis showed that the value of the items in a shipment has a stronger impact on the shipping cost than the actual weight of the package.
 
 4. **Financial Outliers:** The most expensive shipments are almost always air and air charter deliveries. This is where we should look for potential cost savings.
 
-5. **Top Markets:** Our highest volume of shipments is to key countries like South Africa, Nigeria, and Vietnam, giving us a clear focus for business strategy.
+5. **Top Markets:** The highest volume of shipments is to key countries like South Africa, Nigeria, and Vietnam, giving us a clear focus for business strategy.
 
 ***
