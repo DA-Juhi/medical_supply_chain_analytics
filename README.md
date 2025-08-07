@@ -21,7 +21,7 @@ The primary goal was to provide actionable insights for a business to optimize i
 ***
 
 ### 📈 **Key Insights & Outcomes**
-1. **Data Quality:** We identified over 1,700 missing values in the dosage data. This was not an error but a key insight: the missing values were for test kits, which are not measured in dosages.
+1. **Data Quality:** We identified over 1,736 missing values in the dosage data. This was not an error but a key insight: the missing values were for test kits, which are not measured in dosages.
 
 2. **Delivery Performance:** Our deliveries are on time 88.51% of the time. We see a clear difference in speed: trucks are the fastest at 55 days, while ocean is the slowest at 176 days.
 
